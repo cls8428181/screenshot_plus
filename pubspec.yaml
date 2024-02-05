@@ -1,7 +1,8 @@
 name: screenshot_plus
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/cls8428181/screenshot_plus
+repository: https://github.com/cls8428181/screenshot_plus
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
