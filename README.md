@@ -1,5 +1,8 @@
 
 ---
+## Languages
+
+- [中文](./README_ZH.md)
 
 ### Screenshot Plus
 
