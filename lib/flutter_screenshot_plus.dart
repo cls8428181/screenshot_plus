@@ -1,4 +1,4 @@
-library screenshot_plus;
+library flutter_screenshot_plus;
 
 export 'src/screenshot/screenshot.dart';
 export 'src/screenshot/screenshot_controller.dart';

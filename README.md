@@ -20,7 +20,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  screenshot_plus: ^latest_version
+  flutter_screenshot_plus: ^latest_version
 ```
 
 Then run `flutter packages get` to install the plugin.

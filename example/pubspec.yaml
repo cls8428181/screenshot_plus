@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  screenshot_plus:
+  flutter_screenshot_plus:
     path: ../
   share_plus: ^7.2.2
   path_provider: ^2.1.2

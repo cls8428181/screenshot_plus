@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:screenshot_plus/src/screenshot/screenshot.dart';
+import 'package:flutter_screenshot_plus/src/screenshot/screenshot.dart';
 import 'dart:ui' as ui;
-import 'package:screenshot_plus/src/screenshot/screenshot_controller.dart';
+import 'package:flutter_screenshot_plus/src/screenshot/screenshot_controller.dart';
 
 part "merge_painter.dart";
 

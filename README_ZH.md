@@ -19,7 +19,7 @@
 
 ```yaml
 dependencies:
-  screenshot_plus: ^最新版本
+  flutter_screenshot_plus: ^最新版本
 ```
 
 然后运行`flutter packages get`来安装插件。
