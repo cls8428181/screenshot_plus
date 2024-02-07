@@ -1,11 +1,11 @@
 name: flutter_screenshot_plus
-description: Screenshot Plus is a pure Dart Flutter plugin designed for easy widget state capture. It supports capturing visible widgets, off-screen widget images, and full long lists with ease. Simple API calls enable quick, high-quality screenshot functionality, ideal for sharing, documentation, or testing purposes, without complex implementation details.
+description: a flutter plugin for easy, high-quality widget captures.
 version: 0.0.1
 homepage: https://github.com/cls8428181/screenshot_plus
 repository: https://github.com/cls8428181/screenshot_plus
 
 environment:
-  sdk: '>=3.2.6 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
@@ -16,7 +16,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
